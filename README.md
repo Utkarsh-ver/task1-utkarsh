@@ -1,6 +1,6 @@
-My name is UTKARSH VERMA
-I am from civil branch
-I am from very known place of Uttarpradesh, Mirzapur
-My hobbies are Sketching,Playing keyboard...
+About Myself:-
 
-I want to contribute to open source as it will help me to making my network strong with others developers...
+My name is utkarsh verma 
+I am from Civil branch
+I am from very known district of Uttarpradesh i.e., Mirzapur
+My hobbies are playing Keyboard,Steching...
